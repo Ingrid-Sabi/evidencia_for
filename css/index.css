@@ -1,0 +1,38 @@
+/**{
+    margin: 0;
+    padding: 0;
+}*/
+#nav-bar{
+    color: white;
+   margin: 25px 25px  25px 10px;
+    display: inline-block;
+    width: 95%;
+   
+}
+ul{
+list-style-type: none; 
+font-size: 1.4em;
+text-align: center;
+padding-bottom: 30px ;
+border-bottom: 2px solid rgb(112, 110, 110)
+
+
+}
+li{
+    background-color:rgb(160, 156, 156);
+    padding: 5px 15px;
+    margin: 2px;
+    display: inline-block;
+
+}
+li:hover{
+    font-size: 1.1em;
+    background-color: rgb(139, 136, 136)
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+body{
+	background-image: url(../img/175608-Sepik.jpg);
+}
